@@ -7,20 +7,21 @@ Saw a Lighthouse report from Cloudflare indicating that my site was loading too 
 ## Results
 After using this, my images folder size decreased significantly, from 105MB to just 9MB!
 
+
 ## Installation
 locally clone/download this repo, `cd` to the project folder and then follow these steps : 
 
-1. Make Virtual Environment
+1. Make Virtual Environment :
 `python -m venv .env`
 
-2. Acivate ENV
+2. Acivate ENV :
 `.env\scripts\activate`
 
-3. Install requirements
+3. Install requirements : 
 `pip install -r requirements.txt`
 
-4. go to source code directory 
+4. go to source code directory : 
 `cd src`
 
-5. Run `main.py`
+5. Run `main.py` : 
 `python main.py`

@@ -6,6 +6,7 @@ Saw a Lighthouse report from Cloudflare indicating that my site was loading too 
 
 ## Results
 After using this, my images folder size decreased significantly, from 105MB to just 9MB!
+![screenshot](https://github.com/iamDyeus/JUNK/assets/87000693/94664fd1-65e2-4dc2-b0bb-18f13715121d)
 
 
 ## Installation
@@ -25,3 +26,8 @@ locally clone/download this repo, `cd` to the project folder and then follow the
 
 5. Run `main.py` : 
 `python main.py`
+
+
+# Future
+If anyone ever sees this repo and would like to flex their Python skills, they can create the GUI that I conceptualized but didn't have time to code.
+[figma-file-Link](https://www.figma.com/file/kkYsDasV5SvtioPlxFLBGf/img2webp?type=design&node-id=1%3A5&mode=design&t=7k4I1UkQg1sM2FWp-1)
